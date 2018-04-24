@@ -21,7 +21,7 @@ int main()
 	CurrencyConversion:
 	std::cout << "What are you looking to convert to? (CanadianDollar, Euro, Rupee, Yen, Peso, Rand, Pound) \n";
 	std::cin >> currencyConvert;
-	if (currencyConvert == "CandianDollar")
+	if (currencyConvert == "CanadianDollar")
 		std::cout << "Your currency is worth: " << currency * canadianDollar << " canadian dollars. \n";
 	else if(currencyConvert == "Euro")
 		std::cout << "Your currency is worth: " << currency * Euro << " Euros. \n";
@@ -36,9 +36,7 @@ int main()
 	else if (currencyConvert == "Pound")
 		std::cout << "Your currency is worth: " << currency * britishPound << " Pounds. \n";
 	else
-	{
 		goto CurrencyConversion;
-	}
 	system("pause");
 	return 0;
 
