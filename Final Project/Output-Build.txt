@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: AddingArrays, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>  AddingArrays.vcxproj -> C:\Users\bs137670\Desktop\Git C++\Chapter-11\AddingArrays\Debug\AddingArrays.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,7 +1,7 @@
-Strength: 12. 
-Perception: 7. 
-Endurance: 14. 
-Charisma: 18. 
-Intelligence: 14. 
-Agility: 8. 
-Luck: 10. 
+Strength: 13. 
+Perception: 9. 
+Endurance: 6. 
+Charisma: 9. 
+Intelligence: 9. 
+Agility: 11. 
+Luck: 11. 

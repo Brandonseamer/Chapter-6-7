@@ -1,0 +1,15 @@
+Welcome "hero".
+
+The princess has been captured by a band of theives!
+
+
+What will you do in order to rescue her?
+
+Will you:
+1. Utilize your strength stat to bust through the door and kill the thieves?
+2. Utilize your perception stat to snipe the leader and cause confusion amongst the group?
+3. Utilize your endurance to defend the princess from the thieves and escort her out?
+4. Utilize your charisma to charm the leader to letting her free?
+5. Utilize your intelligence to outwit the leader and trick him to letting her go?
+6. Utilize your agility to sneak past the thieves, release the princess, and escape?
+7. Utilize your luck to gamble earnings for a ransom payment to release the princess?
